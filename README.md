@@ -15,10 +15,6 @@ for FireEyes U90/140
 
 
 
-![My Image](视差显示.png "双目")
-![My Image](侧视-去除背景.jpg "双目")
-
-
 ### 软件下载见右侧release
 StereoUsbGUI2_0更新内容一览：
 
